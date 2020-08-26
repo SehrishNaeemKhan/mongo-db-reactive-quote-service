@@ -6,9 +6,6 @@ import springframework.reactive.quote.svc.domain.Quote;
 import org.springframework.boot.CommandLineRunner;
 import reactor.core.publisher.Flux;
 
-/**
- * Created by VenD-Sehrish on 09/09/18.
- */
 @Component
 public class QuoteRunner implements CommandLineRunner {
 
